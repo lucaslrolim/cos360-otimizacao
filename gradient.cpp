@@ -10,6 +10,13 @@ double gradiente_f1(double x, double y,int variavel){
     return gradiente[variavel];
 }
 
+double gradiente_f2(double x, double y,int variavel){
+    double gradiente[2];
+    gradiente[0] = 1/2*(gradiente_f1[0]/2*sqrt(log(x*(1-x)*y*(1-y)));
+    gradiente[1] = 1/2*(gradiente_f1[1]/2*sqrt(log(x*(1-x)*y*(1-y)));
+    return gradiente[variavel];
+}
+
 int main()
 {
  cout << gradiente_f1(13,20,1) << endl;

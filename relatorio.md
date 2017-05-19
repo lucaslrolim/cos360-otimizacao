@@ -39,6 +39,22 @@ Para o estudo a seguir utilizamos o site [Wolfram Alpha](https://www.wolframalph
 
 ## Função F2
 
+### Plotagem *(parte real)*
+
+![plot-f2](/imagens/f2-plot.png)
+
+### Curva de Nível
+
+![curva de nível](/imagens/f2-curva.png)
+
+### Derivadas
+
+![Derivadas parciais de f2](/imagens/f2-derivada.png)
+
+### Mínimo Local
+
+![Mínimo locald e f2](/imagens/f2-minimo.png)
+
 
 
 ---
